@@ -58,8 +58,6 @@ package-lock.json
 
 # gatsby files
 .cache/
-public
-
 # Mac files
 .DS_Store
 
